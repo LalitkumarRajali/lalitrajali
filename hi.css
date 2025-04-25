@@ -3,7 +3,9 @@
   object-fit: fill;
   border-radius: 150px;
 
-  
+  .body{
+    background-color:wheat;
+  }
 
 
 }
